@@ -1,0 +1,50 @@
+
+kcom.management.ProductMS.controller.ProductController#getproductsonName(Ljava/lang/String;)Ljava/util/List;™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java/ /(*"startingBlock*š
+startingBlock™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java/* /([Ž
+‹
+™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java/+ /(G
+%2"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*!
+
+productNamejava.lang.StringÖ
+Ó
+™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java/O /(Z
+productNamejava.lang.String"__annotation*
+
+%2*
+1*Œ
+
+1™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java0  0(.«
+¨
+™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java0  0(.5
+%0/com.management.ProductMS.service.ProductService"__id*M*K7
+5com.management.ProductMS.controller.ProductController"
+productServiceŸœ
+™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java0  0(M
+%1java.util.List"ecom.management.ProductMS.service.ProductService#getproductsonName(Ljava/lang/String;)Ljava/util/List;*7
+5
+%0/com.management.ProductMS.service.ProductService*!
+
+productNamejava.lang.String2%getproductsonName(Ljava/lang/String;)Û
+Ø
+™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java0 0(N
+
+productDtojava.util.List"__id*
+
+%1java.util.List"¼
+™
+ŽC:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java1 1(
+
+
+productDtojava.util.List:
+productNamejava.lang.StringB97
+5com.management.ProductMS.controller.ProductController
